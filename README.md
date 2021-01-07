@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://github.com/tadeha/tadeha/blob/master/github-metrics.svg)
+![Metrics](https://github.com/tadeha/tadeha/blob/main/github-metrics.svg)
