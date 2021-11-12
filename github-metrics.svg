@@ -1498,23 +1498,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="215.34033885145186" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="215.34033885145186" y="0" width="213.3178429374936" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="428.65818178894546" y="0" width="13.691473122861504" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="442.34965491180697" y="0" width="10.516133404238458" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="452.86578831604544" y="0" width="3.3644864106807923" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.23027472672624" y="0" width="2.690849448743291" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.9211241754695" y="0" width="0.8231579503518648" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.74428212582137" y="0" width="0.25571787417862807" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.67066005062551" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="214.67066005062551" y="0" width="214.15940181484223" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="428.8300618654677" y="0" width="13.616388409134522" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="442.4464502746022" y="0" width="10.45846241010317" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="452.90491268470544" y="0" width="3.3460354013031046" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.2509480860085" y="0" width="2.676092697681644" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.9270407836902" y="0" width="0.8186437115625371" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.7456844952527" y="0" width="0.2543155047472837" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Jupyter Notebook
-              </div>
-                    <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Swift
+              </div>
+                    <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Jupyter Notebook
               </div>
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
@@ -1544,7 +1544,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Nov 2021, 17:23:54  with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 12 Nov 2021, 18:22:51  with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
